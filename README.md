@@ -12,6 +12,7 @@ This portfolio highlights my contributions to Swire Coca-Cola’s predictive mai
 6. [Business Value](#business-value)
 7. [Challenges Encountered](#challenges-encountered)
 8. [Learnings](#learnings)
+9. [Acknowledgment](#Acknowledgment)
 
 
 ## Project Overview
@@ -82,4 +83,7 @@ I focused on addressing missing values in critical columns like ACTUAL_WORK_IN_M
    - Learned to tackle computational challenges and manage team objectives effectively.
 8. **Business Context Application**:
    - Developed skills in applying predictive models to real-world problems and delivering actionable insights.
+
+## Acknowledgment
+I would like to express my sincere appreciation to Swire Coca-Cola for their sponsorship and invaluable insights throughout the project. My heartfelt thanks also go to my faculty advisor, Professor Jeff Webb, for his expert guidance and constructive suggestions during the development process. Finally, I am grateful for the teamwork and dedication of all members in achieving impactful results.
 
